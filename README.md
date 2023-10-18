@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert
 - 👀 I’m interested in devops and web frameworks
-- 🌱 I’m currently learning Livewire and Alpine to fill out TALL stack
+- 🌱 The current special is Laravel with a side of Vue served over a bed of Inertia
 - 📫 How to reach me ... I'm around
 
 <!---
