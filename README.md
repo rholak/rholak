@@ -8,5 +8,7 @@ rholak/rholak is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Static Badge](https://img.shields.io/badge/building_skills-passing-green)
+![Static Badge](https://img.shields.io/badge/skills-passing-green)
+![Static Badge](https://img.shields.io/badge/experisnce-passing-green)
+![Static Badge](https://img.shields.io/badge/wizardry-passing-green)
 
