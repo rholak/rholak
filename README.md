@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Robert
+<!-- - 👋 Hi, I’m Robert
 - 👀 I’m interested in devops and web frameworks
 - 🌱 The current special is Laravel with a side of Vue served over a bed of Inertia
-- 📫 How to reach me ... I'm around
+- 📫 How to reach me ... I'm around -->
 
 <!---
 rholak/rholak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
