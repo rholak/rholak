@@ -8,4 +8,5 @@ rholak/rholak is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![streak](https://codeium.com/badges/v2/user/robert/streak)](https://codeium.com/profile/robert)
+![Static Badge](https://img.shields.io/badge/robert-holak-blue)
+
