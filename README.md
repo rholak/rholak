@@ -8,6 +8,8 @@ rholak/rholak is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+[![/dev/null activity](https://dev-null.sh/@rholak/graph.svg?theme=auto)](https://dev-null.sh/@rholak)
+
 [![Static Badge](https://img.shields.io/badge/skills-passing-green?style=for-the-badge)](https://github.com/rholak)
 [![Static Badge](https://img.shields.io/badge/experience-passing-green?style=for-the-badge)](https://github.com/rholak)
 [![Static Badge](https://img.shields.io/badge/wizardry-passing-green?style=for-the-badge)](https://github.com/rholak)
