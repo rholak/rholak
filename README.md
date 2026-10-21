@@ -20,7 +20,7 @@ Lately, I’ve been contributing to
 written in Go, and [kleeamp](https://github.com/cliamp/kleeamp),
 its mobile counterpart written in Kotlin.
 
-### Certificates
+### Recent certificates
 
 - [AI Coding with OpenCode — Boot.dev](https://www.boot.dev/certificates/a4097db2-947b-4043-b1cc-d0abbd754b96)
 
