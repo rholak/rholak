@@ -8,7 +8,9 @@ rholak/rholak is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Boot.dev AI Coding with OpenCode certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a4097db2-947b-4043-b1cc-d0abbd754b96.jpeg?v=1792625681)](https://www.boot.dev/certificates/a4097db2-947b-4043-b1cc-d0abbd754b96)
+## Certificates
+
+- [AI Coding with OpenCode — Boot.dev](https://www.boot.dev/certificates/a4097db2-947b-4043-b1cc-d0abbd754b96)
 
 [![/dev/null activity](https://dev-null.sh/@rholak/graph.svg?theme=auto)](https://dev-null.sh/@rholak)
 
