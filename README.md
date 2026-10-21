@@ -4,7 +4,7 @@ Most of my personal projects these days are built with Laravel.
 I also contribute to open source in Go and Kotlin, build plugins
 for my Linux desktop, and tinker with developer tooling.
 
-Most of that lives over at [CodeFriendly](https://github.com/codefriendly).
+You can find my projects and open-source work at [CodeFriendly](https://github.com/codefriendly).
 
 ### Things I’m building
 
